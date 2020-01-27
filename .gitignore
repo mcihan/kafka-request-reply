@@ -1,0 +1,14 @@
+/mvnw
+*.iml
+axon.ipr
+axon.iws
+target/
+.idea/
+**/*.iml
+.classpath
+.project
+.settings/
+events/
+.DS_Store
+/maven-wrapper.jar
+/mvnw.cmd
